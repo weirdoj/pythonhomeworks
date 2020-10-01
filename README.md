@@ -1,5 +1,5 @@
-# pythonhomeworks
-# Self_Study
+# python_homeworks
+# self_Study
 # Learning Python from following links
 
 https://www.py4e.com/lessons/
