@@ -38,3 +38,7 @@ n2 = input("Enter a noun: ")
 r = """ The {} {} the {} {} """.format(n1, v1, adj, n2)
 print(r)
 
+# exercise 9
+# use \n to go to next line
+print("line1\nline2\nline3")
+
