@@ -42,3 +42,15 @@ print(r)
 # use \n to go to next line
 print("line1\nline2\nline3")
 
+# slicing exercise 10
+print("It was a bright cold day in April, and the clocks were striking thirteen."[:33])
+
+#exercise 11
+print("""  "Hi"  """)
+
+#exercise 12
+print('A screaming comes across the sky.'.replace('s', '$'))
+
+#exercise 13
+print("Hemingway".index('m'))
+
