@@ -1,5 +1,5 @@
 # python_homeworks
-# self_Study
+# self_taught programmer
 # Learning Python from following links
 
 This is my python exercise. 
