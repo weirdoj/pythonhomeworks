@@ -3,6 +3,15 @@
 # Learning Python from following links
 
 This is my python exercise. 
+# Header for code
+#----------------HEADER---------------
+_author_ = 'Jimmy Nguyen'
+#import datetime library
+import datetime
+print("Creation date is: ", datetime.datetime.now())
+print("Author: {}".format(_author_))
+print("\n")
+#--------------------------------------
 
 # Free learning:
 https://www.py4e.com/lessons/
