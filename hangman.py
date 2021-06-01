@@ -40,3 +40,5 @@ def hangman(word):
               .format(word))
 
 hangman("cat")
+
+#Modify your Hangman game, so a word is selected randomly from a list of words.
